@@ -13,13 +13,13 @@
 
 Here is the short Glance of my Dashboard wrt to above insights.
 
-Insights on Themes and Startups
+**Insights on Themes and Startups**
 ![dashboard1](https://user-images.githubusercontent.com/54077740/115991953-b30e8100-a5e8-11eb-9e7d-c0ea2b4a8f5a.png)
 
 
-Insights on Sectors wise Investment
+**Insights on Sectors wise Investment**
 ![dashboard2](https://user-images.githubusercontent.com/54077740/115991806-e3095480-a5e7-11eb-9d3e-b2b2f72d3422.png)
 
 
-Radar chart
+**Radar chart**
 ![radar chart](https://user-images.githubusercontent.com/54077740/115991810-e997cc00-a5e7-11eb-9bb2-980326a55ed1.png)
