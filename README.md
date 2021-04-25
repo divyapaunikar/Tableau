@@ -11,7 +11,7 @@
 - Division of Startups to Stages
 - Top 5 Theme based on Startups by 5 Countries
 
-Here is the short Glance of my Dashboard wrt to above insights.
+## Here is the short Glance of my Dashboard wrt to above insights.
 
 **Insights on Themes and Startups**
 ![dashboard1](https://user-images.githubusercontent.com/54077740/115991953-b30e8100-a5e8-11eb-9e7d-c0ea2b4a8f5a.png)
