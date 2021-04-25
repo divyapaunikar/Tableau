@@ -15,12 +15,16 @@
 
 **Insights on Themes and Startups**
 ![dashboard1](https://user-images.githubusercontent.com/54077740/115994847-587c2180-a5f6-11eb-8681-d6707bd8165b.png)
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 **Insights on Sectors wise Investment**
 ![dashboard2](https://user-images.githubusercontent.com/54077740/115994855-6467e380-a5f6-11eb-99df-6eb6fb5a1691.png)
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 **Radar chart**
 ![radar chart](https://user-images.githubusercontent.com/54077740/115991810-e997cc00-a5e7-11eb-9bb2-980326a55ed1.png)
